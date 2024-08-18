@@ -1,0 +1,21 @@
+Missing ID: <button> with attributes 
+Missing ID: <input> with attributes  type="text" value="文本输入"
+Missing ID: <select> with attributes 
+Missing ID: <div> with attributes  ng-click="doSomething()"
+Non-internationalized text: 测试 HTML 文件
+Non-internationalized text: 这是一个包含中文文本的段落。
+Non-internationalized text: 按钮
+Non-internationalized text: 选项1
+Non-internationalized text: 选项2
+Non-internationalized text: 点击我
+Missing ID: <button> with attributes 
+Non-internationalized text: 欢迎来到我的网站
+Non-internationalized text: 关于我们
+Non-internationalized text: 联系我们
+Non-internationalized text: 首页
+Non-internationalized text: 这是首页的内容。
+Non-internationalized text: 关于我们
+Non-internationalized text: 这是关于我们页面的内容。
+Non-internationalized text: 联系我们
+Non-internationalized text: 这是联系我们页面的内容。
+Non-internationalized text: 版权所有 ? 2024 我的网站

@@ -1,0 +1,10 @@
+Missing ID at line 10, column 1: <button> with attributes 
+Missing ID at line 11, column 1: <input> with attributes  type="text" value="文本输入"
+Missing ID at line -1, column -1: <select> with attributes 
+Missing ID at line -1, column -1: <div> with attributes  ng-click="doSomething()"
+Non-internationalized text at line 8, column 1: 测试 HTML 文件
+Non-internationalized text at line 9, column 1: 这是一个包含中文文本的段落。
+Non-internationalized text at line 10, column 1: 按钮
+Non-internationalized text at line 13, column 5: 选项1
+Non-internationalized text at line 14, column 5: 选项2
+Non-internationalized text at line -1, column -1: 点击我
